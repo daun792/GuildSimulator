@@ -34,12 +34,12 @@ BGM과 효과음을 추가하고 재생하는 방법을 설명합니다.
 
 ## 새로운 매니저를 추가하려면
 
-[새로운 서비스 추가하기](Docs/04_AddNewService.md)
+[새로운 서비스 추가하기](Docs/06_AddNewService.md)
 
 새로운 Manager나 Data 클래스를 프로젝트에 추가하는 순서를 설명합니다.
 
 ## 문제가 생겼다면
 
-[자주 발생하는 문제](Docs/05_Troubleshooting.md)
+[자주 발생하는 문제](Docs/07_Troubleshooting.md)
 
 등록 오류, 사운드 재생 오류 등 자주 발생하는 문제를 정리했습니다.
