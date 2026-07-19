@@ -1,5 +1,20 @@
 [
   {
+    "id": "adv_rio",
+    "displayName": "리오",
+    "portraitId": "portrait_adv_rio",
+    "level": 3,
+    "jobId": "job_warrior",
+    "combat": 58,
+    "agility": 44,
+    "survival": 52,
+    "knowledge": 31,
+    "budget": 500,
+    "injuryHistory": "없음",
+    "submittedEquipment": "장검 | 가죽 갑옷",
+    "combatRecords": "마을 외곽 슬라임 12마리 토벌"
+  },
+  {
     "id": "adv_elena",
     "displayName": "엘레나 로즈",
     "portraitId": "portrait_adv_elena",
@@ -11,7 +26,8 @@
     "knowledge": 24,
     "budget": 520,
     "injuryHistory": "",
-    "submittedEquipment": "낡은 검 | 가죽 갑옷"
+    "submittedEquipment": "낡은 검 | 가죽 갑옷",
+    "combatRecords": "고블린 정찰대 격퇴"
   },
   {
     "id": "adv_finn",
@@ -25,7 +41,8 @@
     "knowledge": 34,
     "budget": 460,
     "injuryHistory": "",
-    "submittedEquipment": "단궁 | 여행 망토"
+    "submittedEquipment": "단궁 | 여행 망토",
+    "combatRecords": "늑대 무리 추적 및 토벌"
   },
   {
     "id": "adv_mira",
@@ -39,7 +56,8 @@
     "knowledge": 54,
     "budget": 400,
     "injuryHistory": "",
-    "submittedEquipment": "치유 지팡이"
+    "submittedEquipment": "치유 지팡이",
+    "combatRecords": "독초 중독 주민 치료"
   },
   {
     "id": "adv_doran",
@@ -53,7 +71,8 @@
     "knowledge": 25,
     "budget": 720,
     "injuryHistory": "왼쪽 어깨 탈구",
-    "submittedEquipment": "대검 | 사슬 갑옷"
+    "submittedEquipment": "대검 | 사슬 갑옷",
+    "combatRecords": "오우거 1마리 토벌"
   },
   {
     "id": "adv_syl",
@@ -67,7 +86,8 @@
     "knowledge": 46,
     "budget": 580,
     "injuryHistory": "",
-    "submittedEquipment": "쌍단검 | 도구 가방"
+    "submittedEquipment": "쌍단검 | 도구 가방",
+    "combatRecords": "상단 창고 함정 해제"
   },
   {
     "id": "adv_iris",
@@ -81,7 +101,8 @@
     "knowledge": 72,
     "budget": 650,
     "injuryHistory": "",
-    "submittedEquipment": "마력 지팡이 | 초급 마도서"
+    "submittedEquipment": "마력 지팡이 | 초급 마도서",
+    "combatRecords": "하급 저주 해제"
   },
   {
     "id": "adv_garen",

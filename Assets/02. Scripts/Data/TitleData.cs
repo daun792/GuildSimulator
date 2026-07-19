@@ -49,6 +49,7 @@ public class VisitorData
     public int budget;
     public string injuryHistory;
     public string submittedEquipment;
+    public string combatRecords;
 }
 
 [Serializable]
