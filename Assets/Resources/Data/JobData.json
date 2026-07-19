@@ -1,0 +1,56 @@
+[
+  {
+    "id": "job_warrior",
+    "displayName": "전사",
+    "combatMod": 12,
+    "agilityMod": 0,
+    "survivalMod": 6,
+    "knowledgeMod": -4,
+    "specialtyRiskTags": "combat"
+  },
+  {
+    "id": "job_ranger",
+    "displayName": "레인저",
+    "combatMod": 3,
+    "agilityMod": 10,
+    "survivalMod": 8,
+    "knowledgeMod": 2,
+    "specialtyRiskTags": "trap,environment"
+  },
+  {
+    "id": "job_mage",
+    "displayName": "마법사",
+    "combatMod": 2,
+    "agilityMod": -4,
+    "survivalMod": -2,
+    "knowledgeMod": 16,
+    "specialtyRiskTags": "unknown"
+  },
+  {
+    "id": "job_cleric",
+    "displayName": "성직자",
+    "combatMod": -2,
+    "agilityMod": -2,
+    "survivalMod": 12,
+    "knowledgeMod": 10,
+    "specialtyRiskTags": "environment,unknown"
+  },
+  {
+    "id": "job_rogue",
+    "displayName": "도적",
+    "combatMod": 2,
+    "agilityMod": 15,
+    "survivalMod": 1,
+    "knowledgeMod": 4,
+    "specialtyRiskTags": "trap"
+  },
+  {
+    "id": "job_paladin",
+    "displayName": "성기사",
+    "combatMod": 10,
+    "agilityMod": -5,
+    "survivalMod": 12,
+    "knowledgeMod": 4,
+    "specialtyRiskTags": "combat,environment"
+  }
+]

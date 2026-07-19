@@ -1,0 +1,38 @@
+[
+  {
+    "key": "visitorsPerDay",
+    "value": 3
+  },
+  {
+    "key": "investigationActions",
+    "value": 2
+  },
+  {
+    "key": "maxInsurancePerVisitor",
+    "value": 1
+  },
+  {
+    "key": "maxEquipmentPerVisitor",
+    "value": 2
+  },
+  {
+    "key": "guildFeeRate",
+    "value": 0.15
+  },
+  {
+    "key": "guildFunds",
+    "value": 3000
+  },
+  {
+    "key": "survivalRate",
+    "value": 1
+  },
+  {
+    "key": "reputation",
+    "value": 50
+  },
+  {
+    "key": "kingdomCrisis",
+    "value": 25
+  }
+]

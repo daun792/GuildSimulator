@@ -1,0 +1,68 @@
+[
+  {
+    "id": "item_healing_potion",
+    "displayName": "회복 물약",
+    "quantity": 10,
+    "price": 120,
+    "cost": 55,
+    "maxPerVisitor": 1,
+    "consumable": "TRUE",
+    "slot": "",
+    "riskTags": "combat,environment"
+  },
+  {
+    "id": "item_light_armor",
+    "displayName": "경량 방어구",
+    "quantity": 5,
+    "price": 300,
+    "cost": 170,
+    "maxPerVisitor": 1,
+    "consumable": "FALSE",
+    "slot": "armor",
+    "riskTags": "combat"
+  },
+  {
+    "id": "item_return_scroll",
+    "displayName": "귀환 주문서",
+    "quantity": 3,
+    "price": 420,
+    "cost": 250,
+    "maxPerVisitor": 1,
+    "consumable": "TRUE",
+    "slot": "",
+    "riskTags": "combat,trap,environment,unknown"
+  },
+  {
+    "id": "item_antidote",
+    "displayName": "해독제",
+    "quantity": 8,
+    "price": 100,
+    "cost": 40,
+    "maxPerVisitor": 1,
+    "consumable": "TRUE",
+    "slot": "",
+    "riskTags": "poison,environment"
+  },
+  {
+    "id": "item_sturdy_rope",
+    "displayName": "튼튼한 밧줄",
+    "quantity": 8,
+    "price": 80,
+    "cost": 30,
+    "maxPerVisitor": 1,
+    "consumable": "FALSE",
+    "slot": "",
+    "riskTags": "trap"
+  },
+  {
+    "id": "item_appraisal_lens",
+    "displayName": "감정 렌즈",
+    "quantity": 5,
+    "price": 160,
+    "cost": 70,
+    "maxPerVisitor": 1,
+    "consumable": "TRUE",
+    "slot": "",
+    "riskTags": "unknown,curse"
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "id": "insurance_death",
+    "displayName": "사망 보험",
+    "premium": 350,
+    "coverageCap": 1800,
+    "deductible": 0,
+    "coveredResults": "dead",
+    "coveredEvents": "",
+    "claimType": "fixed",
+    "fraudDifficulty": 65
+  },
+  {
+    "id": "insurance_injury",
+    "displayName": "부상 보험",
+    "premium": 220,
+    "coverageCap": 700,
+    "deductible": 0,
+    "coveredResults": "injured",
+    "coveredEvents": "",
+    "claimType": "fixed",
+    "fraudDifficulty": 45
+  },
+  {
+    "id": "insurance_breakage",
+    "displayName": "장비 파손 보험",
+    "premium": 150,
+    "coverageCap": 500,
+    "deductible": 50,
+    "coveredResults": "",
+    "coveredEvents": "equipmentBroken",
+    "claimType": "actualLoss",
+    "fraudDifficulty": 55
+  }
+]
