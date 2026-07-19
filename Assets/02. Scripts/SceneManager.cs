@@ -36,7 +36,7 @@ public sealed class SceneManager : AppService
     {
         UnityEngine.SceneManagement.SceneManager.LoadScene(GetSceneName(sceneName));
 
-        PlaySceneBgm(sceneName);
+        //PlaySceneBgm(sceneName);
 
         isTransitioning = false;
     }
@@ -45,10 +45,10 @@ public sealed class SceneManager : AppService
     {
         return sceneName switch
         {
-            SceneName.Developer => "Developer",
-            SceneName.Title => "Title",
-            SceneName.Game => "Game",
-            SceneName.Empty => "Empty",
+            SceneName.Developer => "00. Developer",
+            SceneName.Title => "01. Title",
+            SceneName.Game => "02. Game",
+            SceneName.Empty => "03. Empty",
 
             _ => throw new ArgumentOutOfRangeException(
                 nameof(sceneName),

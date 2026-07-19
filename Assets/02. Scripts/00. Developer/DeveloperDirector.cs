@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class DeveloperMaanger : MonoBehaviour
+public class DeveloperDirector : MonoBehaviour
 {
     private void Start()
     {

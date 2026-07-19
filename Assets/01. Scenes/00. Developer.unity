@@ -130,7 +130,7 @@ GameObject:
   - component: {fileID: 98894373}
   - component: {fileID: 98894372}
   m_Layer: 0
-  m_Name: DeveloperManager
+  m_Name: DeveloperDirector
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -487,7 +487,7 @@ Canvas:
   m_AdditionalShaderChannelsFlag: 0
   m_UpdateRectTransformForStandalone: 0
   m_SortingLayerID: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 999
   m_TargetDisplay: 0
 --- !u!1 &880971746
 GameObject:
@@ -903,7 +903,7 @@ MonoBehaviour:
 SceneRoots:
   m_ObjectHideFlags: 0
   m_Roots:
+  - {fileID: 98894373}
   - {fileID: 1175776199}
   - {fileID: 1032992204}
   - {fileID: 510070825}
-  - {fileID: 98894373}
